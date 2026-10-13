@@ -1,1 +1,8 @@
+.vs-code
+__pycache__
 archive
+iqc
+.env
+config.txt
+*.docx
+*.mp4
