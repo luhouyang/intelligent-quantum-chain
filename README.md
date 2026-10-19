@@ -4,6 +4,8 @@ Submission for 2026 Shenzhen FinTechathon International Track
 
 [DEMO-V1](https://drive.google.com/file/d/1Dw9CHvM61kiFVJfCYaXEq8bdq0XvFU7I/view?usp=sharing)
 
+Test cases can be checked by running [src/headless_demo.py](/src/headless_demo.py) or with UI [src/app.py](/src/app.py)
+
 # Setup
 
 ## Linux Setup
