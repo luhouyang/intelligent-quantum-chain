@@ -6,6 +6,11 @@ Submission for 2026 Shenzhen FinTechathon International Track
 
 Test cases can be checked by running [src/headless_demo.py](/src/headless_demo.py) or with UI [src/app.py](/src/app.py)
 
+Execution traces:
+- [quantum-execution_evidence_log.json](/quantum-execution_evidence_log.json) with QRNG
+- [app-execution_evidence_log.json](/app-execution_evidence_log.json) in Gradio app
+- [simulated-execution_evidence_log.json](/simulated-execution_evidence_log.json) with simulated quantum computer
+
 # Setup
 
 ## Linux Setup
